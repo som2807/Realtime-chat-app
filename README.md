@@ -1,4 +1,4 @@
-# Full Stack Realtime Chat App 
+# Realtime Chat App 
 
 
 ### Setup .env file
@@ -24,4 +24,5 @@ npm run build
 ### Start the app
 
 ```shell
+
 npm start
